@@ -54,6 +54,7 @@
     "react-native-screens": "4.5.0",
     "react-native-toast-message": "^2.2.1",
     "react-native-web": "~0.19.10",
+    "reactnativeapp": "file:",
     "uuid": "^11.0.5"
   },
   "devDependencies": {
